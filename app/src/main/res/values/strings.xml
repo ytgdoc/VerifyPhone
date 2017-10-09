@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitness Magazine</string>
+    <string name="compass_accuracy_low">Please calibrate compass</string>
+    <string name="Send">SEND CODE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="msg_sit_back"><![CDATA[Sit back &amp; Relax! while we verify your mobile number]]></string>
+    <string name="msg_manual_otp">(Enter the OTP below in case if we fail to detect the SMS automatically)</string>
+    <string name="lbl_enter_otp">Enter OTP</string>
+    <string name="lbl_submit">SUBMIT</string>
+
+</resources>
